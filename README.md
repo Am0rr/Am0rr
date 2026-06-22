@@ -18,8 +18,8 @@ I am a Software Engineering student at Kyiv Aviation Institute (KAI) specializin
 
 | Project | Tech Stack | Key Focus / Role |
 | :--- | :--- | :--- |
-| **[BabylonianGate](https://github.com/Am0rr/Babylonian-gate-api)** | .NET 10, EF Core, PostgreSQL, Docker | Clean Architecture, DDD ("Always-Valid"), Audit logging |
-| **[Prime-items-api](https://github.com/Am0rr/Prime-items-api)** | .NET 10, EF Core, PostgreSQL, JWT | Team Lead, Core architecture design, 15+ API endpoints |
+| **[Babylonian-gate-api](https://github.com/Am0rr/Babylonian-gate-api)** | .NET 10, EF Core, PostgreSQL, Docker | Clean Architecture, DDD ("Always-Valid"), Audit logging |
+| **[Prime-items-api](https://github.com/Am0rr/Prime-items-api)** | .NET 10, EF Core, SQL Server, JWT | Team Lead, Core architecture design, 15+ API endpoints |
 | **[Messenger-api-prototype](https://github.com/Am0rr/Messenger-api-prototype)** | TypeScript, Express, RabbitMQ, Zod | Asynchronous event-driven messaging, strict Type Safety |
 
 ## GitHub Analytics
