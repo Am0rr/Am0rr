@@ -31,4 +31,4 @@ I am a Software Engineering student at Kyiv Aviation Institute (KAI) specializin
 </a>
 </p>
 
-📬 **Contact with me:** [LinkedIn](https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BE-%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%BE%D0%B2%D0%B8%D1%87-%D1%80%D0%B5%D0%B2%D1%8F%D0%BA%D1%96%D0%BD-3b709240a/) | xjxjjj828@gmail.com
+📬 **Contact with me:** [LinkedIn](https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BE-%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%BE%D0%B2%D0%B8%D1%87-%D1%80%D0%B5%D0%B2%D1%8F%D0%BA%D1%96%D0%BD-3b709240a/) | revyakin.dev@gmail.com
